@@ -87,3 +87,7 @@ In this repo, we actually provide five types of sampling strategies for negative
 [2] Zhang, Weinan et al. “Optimizing top-n collaborative filtering via dynamic negative item sampling.” SIGIR (2013).
 
 [3] Wang, Jun et al. “IRGAN.” Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval - SIGIR  ’17 (2017): n. pag. Crossref. Web.
+
+## Funding Source Acknowledgement
+
+This research is supported by the National Research Foundation, Singapore under its International Research Centres in Singapore Funding Initiative. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not reflect the views of National Research Foundation, Singapore.
